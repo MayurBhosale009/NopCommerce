@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T11:38:21 IST" name="Suite" finished-at="2023-12-22T11:38:27 IST" duration-ms="6115">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T11:38:21 IST" name="Test" finished-at="2023-12-22T11:38:27 IST" duration-ms="6115">
+      <class name="test_classes.Login_Test">
+        <test-method is-config="true" signature="init_Browser()[pri:0, instance:test_classes.Login_Test@368247b9]" started-at="2023-12-22T11:38:06 IST" name="init_Browser" finished-at="2023-12-22T11:38:21 IST" duration-ms="14805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_Browser -->
+        <test-method is-config="true" signature="object_Create()[pri:0, instance:test_classes.Login_Test@368247b9]" started-at="2023-12-22T11:38:21 IST" name="object_Create" finished-at="2023-12-22T11:38:21 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- object_Create -->
+        <test-method signature="signIn()[pri:0, instance:test_classes.Login_Test@368247b9]" started-at="2023-12-22T11:38:21 IST" name="signIn" finished-at="2023-12-22T11:38:27 IST" duration-ms="5928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+      </class> <!-- test_classes.Login_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
