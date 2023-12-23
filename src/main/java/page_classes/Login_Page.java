@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class Login_Page 
 {	
 	WebDriver driver;
-	
+	//changes
 	private @FindBy (xpath="//*[text()='Log in']") WebElement login_home;
 	
 	private @FindBy (xpath="//*[@class='email']") WebElement email;
